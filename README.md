@@ -14,4 +14,5 @@ etc ..
 key insights :-
 we can conclude that this analysis is helpful in establishing a business relationship between customers and the order such as Q1 will help us determine customers who are potentially buying more books , Q2 will help us differentiate customers on basis of income , Q3 will alert us to avail the stock for books which will be soon out of stock , Q4 helps us in telling whether the overall reneue was adequate or not , Q5 will tell whether which genre is profitable and worth selling for .. 
 
-
+tools used :-
+SQL
